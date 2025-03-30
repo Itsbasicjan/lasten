@@ -28,3 +28,4 @@ pip install meinplugin
 # inventree
 # inventree
 # lasten
+# lasten
